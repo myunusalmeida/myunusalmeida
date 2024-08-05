@@ -11,7 +11,9 @@ I'm **Yunus Almeida**!
 
 - **Languages & Frameworks**:  
   ![PHP Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
   ![AlpineJS](https://img.shields.io/badge/-AlpineJS-8BC0D0?style=flat&logo=alpine.js&logoColor=white)
   ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat)
