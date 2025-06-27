@@ -28,7 +28,6 @@ I'm **Yunus Almeida**!
 
 ## 📊 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=myunusalmeida&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myunusalmeida&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
