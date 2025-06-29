@@ -5,7 +5,7 @@ I'm **Yunus Almeida**!
 - 🌱 Currently learning: Python
 - 👨‍💻 I work at **Onlenkan** as an instructor and web developer
 - 💬 Ask me about: **Laravel**
-- 📫 How to reach me: [Instagram](https://instagram.com/yunusalmeida_) | [Website](https://yunnusalme.com)
+- 📫 How to reach me: [Instagram](https://instagram.com/yunusalmeida_) | [Website](https://yunusalmeida.com)
 
 ## 🚀 My Skills
 
